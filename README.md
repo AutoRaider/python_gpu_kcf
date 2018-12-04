@@ -1,0 +1,15 @@
+Python KCF acceleration with Intel GPU
+
+
+
+## Requirements
+
+ * Intel Media Driver - https://github.com/intel/media-driver.git
+ * OpenCV with Intel_VA Enable 
+ * Intel C-for-Media(MDF)  - https://01.org/c-for-media-development-package/downloads
+
+
+
+
+
+
